@@ -2048,7 +2048,7 @@ checksum = "4ee93343901ab17bd981295f2cf0026d4ad018c7c31ba84549a4ddbb47a45104"
 [[package]]
 name = "litesvm"
 version = "0.3.0"
-source = "git+https://github.com/zerocopyrs/litesvm#cfd811e48be7d7ba4adb698e4c3ad2d8ab553475"
+source = "git+https://github.com/zerocopyrs/litesvm#79f559010b45c630da865079595e2d01e858f5b6"
 dependencies = [
  "bincode",
  "indexmap 2.7.0",
