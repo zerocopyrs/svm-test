@@ -5,7 +5,7 @@ members = ["crates/*", "programs/*"]
 [workspace.dependencies]
 auto_impl = "1.2.0"
 faucet = { path = "./programs/faucet" }
-litesvm = { git = "https://github.com/OliverNChalk/litesvm" }
+litesvm = { git = "https://github.com/zerocopyrs/litesvm" }
 solana-account-decoder = "2.1"
 solana-client = "2.1"
 solana-logger = "2.1"
